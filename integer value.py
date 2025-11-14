@@ -1,0 +1,15 @@
+print(character value)
+print('B\t\t', ord("B"))
+print('C\t\t', ord("C"))
+print('D\t\t', ord("D"))
+print('b\t\t', ord("b"))
+print('c\t\t', ord("c"))
+print('d\t\t', ord("d"))
+print('0\t\t', ord("0"))
+print('1\t\t', ord("1"))
+print('2\t\t', ord("2"))
+print('$\t\t', ord("$"))
+print('*\t\t', ord("*"))
+print('+\t\t', ord("+"))
+
+
