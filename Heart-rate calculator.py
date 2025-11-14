@@ -1,11 +1,9 @@
 age = int(input("Enter your age: "))
-maximum heart beat = 220 - age
-max heart rate = 0.85 * maximum heart beat
-min heart rate = 0.50 * maximum heart beat
+maximum_heart_beat = 220 - age
+max_heart_rate = maximum_heart_beat * 0.85 
+min_heart_rate = maximum_heart_beat * 0.50
 
-print(f"Your target heart rate is {maximum heart beat}")
+print(f"your maximum heart rate is {max_heart_rate}")
 
-print(f"your target heart rate is {max heart rate}")
-
-print(f"your target heart rate is {min heart rate}")
+print(f"your minimum heart rate is {min_heart_rate}")
 
